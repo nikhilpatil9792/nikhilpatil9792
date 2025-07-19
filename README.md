@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhilpatil9792/nikhilpatil9792/main/assets/banner.png" alt="Welcome Banner" style="width:100%; border-radius: 10px;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nikhil Bhushan Patil</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
@@ -7,43 +11,23 @@
 
 ---
 
-💼 I’m currently working on **Hotel Patil Booking Website**  
-📚 Learning **Java | Node.js | MySQL | MongoDB | React**  
-📫 Reach me at: **nikhilpatil@example.com**  
-🎯 Goal: To build interactive full-stack applications
+💼 Working on: **Hotel Patil Booking System**  
+📚 Learning: **Java | Node.js | React | HTML | CSS | SQL | JAVASCRIPT**  
+📬 Reach me: `nikhilpatil722002@gmail.com 
+🚀 Goal: Build cool full-stack apps
 
 ---
 
-### 🌟 Tech Stack & Tools
+### 🛠️ Tools & Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,mongodb,java,react,git" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,java,mysql,github" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilpatil9792&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpatil9792&layout=compact&theme=tokyonight" height="180em"/>
-</div>
-
----
-
-### 🔥 Contribution Streak
+### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilpatil9792&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilpatil9792&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:nikhilpatil@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/nikhilpatil9792"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
-
