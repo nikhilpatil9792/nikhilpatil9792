@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src=""C:\Users\np861\Downloads\github-header-image.png"" alt="Welcome Banner" style="width:100%; border-radius: 15px;" />
+  <img src="C:\Users\np861\Downloads\github-header-image.png" alt="Welcome Banner" style="width:100%; border-radius: 15px;" />
 </p>
 
 <!-- Heading -->
