@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Welcome Banner" style="width:100%; border-radius: 15px;" />
+  <img src=""C:\Users\np861\Downloads\github-header-image.png"" alt="Welcome Banner" style="width:100%; border-radius: 15px;" />
 </p>
 
 <!-- Heading -->
@@ -17,9 +17,9 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on a **Hotel Booking System**
-- 🌱 I’m learning **Advanced Java, MongoDB, React**
+- 🌱 I’m learning **Advanced Java, Node.js, React**
 - 💬 Ask me about **Web Development | Java | Node.js**
-- 📫 Reach me: `nikhilpatil@example.com`
+- 📫 Reach me: `nikhilpatil722002@gmail.com`
 - ⚡ Fun Fact: I love building UIs that pop! 🎨
 
 ---
